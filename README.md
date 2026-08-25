@@ -6,8 +6,6 @@ TrustSOC: Trust-Calibrated Multi-Evidence Cyber Reasoning Framework for SOC
 
 ## Overview
 
-For the public GitHub upload, heavyweight local assets such as raw/processed data, trained model weights, predictions, figures, and full analysis dumps are intentionally excluded to keep the repository lightweight. They can be regenerated locally by rerunning the pipeline.
-
 This repository implements a local, reproducible research prototype for TrustSOC — a framework that extends SOC automation by asking not only whether a model can classify a case correctly, but also **whether it knows when it should conclude, investigate, escalate, or refuse**.
 
 The repository is designed for:
